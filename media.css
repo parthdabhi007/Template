@@ -1,0 +1,410 @@
+/* xs mobile */
+@media (max-width:575px) {
+    .content {
+        height: 500px;
+        width: 100%;
+    }
+
+    .home-text {
+        top: 60%;
+    }
+
+    .home-text a {
+        font-size: 15px;
+    }
+
+    .text-link {
+        text-align: center !important;
+    }
+
+    .brand-heading h3 {
+        font-size: 35px;
+    }
+
+    .brand-heading p {
+        font-size: 20px;
+    }
+
+    .box h3 {
+        padding: 15px 0;
+        font-size: 30px;
+    }
+
+    .box p {
+        font-size: 18px;
+    }
+
+    .brand-icon {
+        height: 75px;
+        width: 100px;
+    }
+
+    .brand-image {
+        width: 130px;
+        height: 75px;
+    }
+    .workshop-box {
+        width: 300px;
+        top: 65%;
+    }
+    .workshop-box img{
+        width: 100%;
+    }
+    .workshop-bgimg {
+        height: 450px;
+    } 
+    .workshop-bgimg h2{
+        font-size: 30px;
+        padding: 25px 55px;
+    }
+    .about-box{
+        font-size: 8px;
+    }
+    .about-text h2{
+        font-size: 35px;
+        padding-top: 30px;
+    }
+    .gallery-img h2 {
+        font-size: 30px;
+    }
+    .contact p{
+        font-size: 15px;
+    }
+    .contact button{
+        padding: 6px 20px;
+    }
+    .copyright p{
+        font-size: 12px;
+    }
+    .footer-text p{
+        font-size: 15px;
+        padding: 0 25px;
+    }
+    .fa-brands {
+        font-size: 30px;
+        padding: 20px 20px;
+    }
+    .footer-text{
+        padding: 20px 50px;
+  }
+    
+}
+
+/* sm mobile */
+@media (min-width:576px) {
+    .content {
+        height: 500px;
+        width: 100%;
+    }
+
+    .home-text {
+        top: 60%;
+    }
+
+    .home-text a {
+        font-size: 25px;
+    }
+
+    .brand-heading h3 {
+        font-size: 40px;
+    }
+
+    .brand-heading p {
+        font-size: 20px;
+    }
+
+    .box h3 {
+        padding: 15px 0;
+        font-size: 30px;
+    }
+
+    .box p {
+        font-size: 20px;
+    }
+
+    .brand-icon {
+        height: 75px;
+        width: 100px;
+    }
+
+    .brand-image {
+        width: 130px;
+        height: 75px;
+    }
+    .workshop-bgimg {
+        height: 450px;
+    } 
+    .workshop-bgimg h2{
+        font-size: 30px;
+        padding-top: 60px;
+    }
+    .workshop-box {
+        width: 500px;
+        top: 65%;
+    }
+    .workshop-box img{
+        width: 100%;
+    }
+    .about-box{
+        font-size: 15px;
+    }
+    .about-text h2{
+        font-size: 40px;
+        padding-top: 30px;
+    }
+    .gallery-img h2 {
+        font-size: 40px;
+        padding: 40px;
+    }
+    .contact p{
+        font-size: 16px;
+    }
+    .copyright p{
+        font-size: 15px;
+    }
+    .footer-text p{
+        font-size: 20px;
+        padding: 0 30px;
+    }
+    .fa-brands {
+        font-size: 35px;
+        padding: 20px 20px;
+    }
+    .footer-text h2{
+        font-size: 35px;
+    }
+    .footer-text{
+        padding: 20px 90px;
+  }
+}
+
+/* md tablet */
+@media (min-width:768px) {
+    .brand-heading h3 {
+        font-size: 50px;
+    }
+
+    .brand-heading p {
+        font-size: 25px;
+    }
+
+    .box h3 {
+        padding: 15px 0;
+        font-size: 40px;
+    }
+
+    .box p {
+        font-size: 25px;
+    }
+
+    .brand-icon {
+        height: 120px;
+        width: 120px;
+    }
+
+    .brand-image {
+        width: 150px;
+        height: 85px;
+    }
+    .workshop-box {
+        width: 500px;
+        top: 65%;
+    }
+    .workshop-bgimg {
+        height: 450px;
+    } 
+    .workshop-bgimg h2{
+        font-size: 40px;
+    }
+    .about-box{
+        font-size: 20px;
+    }
+    .about-text p{
+        font-size: 20px;
+    }
+    .gallery-img h2 {
+        font-size: 45px;
+    }
+    .contact p{
+        font-size: 20px;
+    }
+    .contact button{
+        padding: 7px 30px;
+    }
+    .copyright p{
+        font-size: 17px;
+    }
+    .footer-text{
+        padding: 60px 160px;
+  }
+
+}
+
+/* lg laptop */
+@media (min-width:992px) {
+    .content {
+        height: 670px;
+    }
+
+    .home-text {
+        top: 65%;
+    }
+
+    .home-text a {
+        font-size: 35px;
+    }
+
+    .brand-heading p {
+        padding: 0 100px;
+    }
+    .brand-image {
+        width: 170px;
+        height: 100px;
+    }
+    .workshop-box {
+        width: 600px;
+        top: 65%;
+    }
+    .workshop-bgimg {
+        height: 600px;
+    } 
+    .workshop-bgimg h2{
+        font-size: 50px;
+    }
+    .about-text p {
+        padding: 0 120px;
+    } 
+    .about-text h2 {
+        font-size: 40px;
+    }
+    .about-box{
+        font-size: 13px;
+    }
+    .contact p{
+        font-size: 22px;
+    }
+    .contact button{
+        padding: 8px 35px;
+    }
+    .copyright p{
+        font-size: 20px;
+    }
+    .footer-text p{
+        font-size: 25px;
+        padding: 0 40px;
+    }
+    .fa-brands {
+        font-size: 45px;
+        padding: 20px 20px;
+    }
+    .footer-text h2{
+        font-size: 45px;
+    }
+    .footer-text{
+        padding: 60px 150px;
+  }
+    
+
+  
+}
+
+/* xl desktop */
+@media (min-width:1200px) {
+    .brand-icon {
+        height: 75px;
+        width: 100px;
+    }
+
+    .brand-image {
+        width: 130px;
+        height: 75px;
+    }
+    .box h3 {
+        padding: 15px 0;
+        font-size: 30px;
+    }
+
+    .box p {
+        font-size: 20px;
+    }
+    .workshop-box {
+        width: 700px;
+        top: 55%;
+    }
+    .workshop-bgimg {
+        height: 700px;
+    } 
+    .workshop-bgimg h2{
+        font-size: 50px;
+        padding-top: 100px;
+    }
+    .about-box{
+        font-size: 16px;
+    }
+    .about-text h2 {
+        font-size: 50px;
+    }
+    .gallery-img h2 {
+        font-size: 50px;
+    }
+    .copyright p{
+        font-size: 20px;
+    }
+    .footer-text{
+        padding: 60px 200px;
+  }
+}
+
+/* xxl large desktop */
+@media (min-width:1400px) {
+    .content {
+        height: 755px;
+    }
+
+    .home-text {
+        top: 480px;
+    }
+
+    .home-text a {
+        font-size: 45px;
+    }
+
+    .brand-heading h3 {
+        font-size: 60px;
+    }
+
+    .brand-heading p {
+        padding: 0 190px;
+    }
+
+    .box h3 {
+        font-size: 35px;
+    }
+    .box p {
+        font-size: 22px;
+    }
+    .about-box{
+        font-size: 19px;
+    }
+    .gallery-img h2 {
+        font-size: 60px;
+    }
+    .about-text p {
+        padding: 10px 200px;
+        font-size: 25px;
+    } 
+    .about-text h2 {
+        font-size: 50px;
+    }
+    .footer-text p{
+        font-size: 25px;
+        padding: 0 70px;
+    }
+    .footer-text{
+        padding: 60px 290px;
+    }
+    .fa-brands {
+        font-size: 60px;
+        padding: 20px 35px;
+    }
+}
